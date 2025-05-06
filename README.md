@@ -10,5 +10,5 @@
 </div>
 <div align="center">
 <img alt="PmGabeto GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PmGabeto&show_icons=true&theme=shadow_blue "/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmGabeto&layout=compact&&langs_count=8&theme=shadow_blue "/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmGabeto&layout=compact&&langs_count=8"/>
 </div>
