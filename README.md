@@ -8,3 +8,7 @@
   <img align="center" alt="PM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PM-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
+<div align="center">
+<img alt="PmGabeto GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PmGabeto&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmGabeto&layout=compact&&langs_count=8"/>
+</div>
